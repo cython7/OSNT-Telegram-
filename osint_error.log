@@ -1,0 +1,1 @@
+2025-01-26 21:42:31,740 - ERROR - Ошибка запроса: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
